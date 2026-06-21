@@ -1,0 +1,26 @@
+{
+  "client_id": "5086122",
+  "generated_at": "2026-06-21",
+  "items": [
+    {
+      "offer_id": "adfa1",
+      "file": "images/01-adfa1-primary.png"
+    },
+    {
+      "offer_id": "1sdf",
+      "file": "images/02-1sdf-primary.png"
+    },
+    {
+      "offer_id": "adfafaffa",
+      "file": "images/03-adfafaffa-primary.png"
+    },
+    {
+      "offer_id": "20",
+      "file": "images/04-20-primary.png"
+    },
+    {
+      "offer_id": "dsafvsaf1",
+      "file": "images/05-dsafvsaf1-primary.png"
+    }
+  ]
+}
