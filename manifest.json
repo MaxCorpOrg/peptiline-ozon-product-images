@@ -12,7 +12,16 @@
     },
     {
       "offer_id": "adfafaffa",
-      "file": "images/03-adfafaffa-primary.png"
+      "live_offer_id": "OXYTOCIN-2MG",
+      "file": "images/03-adfafaffa-01-cover.png",
+      "legacy_alias_file": "images/03-adfafaffa-primary.png",
+      "gallery_files": [
+        "images/03-adfafaffa-01-cover.png",
+        "images/03-adfafaffa-02-composition-usage.png",
+        "images/03-adfafaffa-03-form-packaging.png",
+        "images/03-adfafaffa-04-storage-shelf-life.png",
+        "images/03-adfafaffa-05-neutral-positioning.png"
+      ]
     },
     {
       "offer_id": "20",
