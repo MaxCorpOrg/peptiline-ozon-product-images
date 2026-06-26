@@ -20,7 +20,15 @@
     },
     {
       "offer_id": "dsafvsaf1",
-      "file": "images/05-dsafvsaf1-primary.png"
+      "live_offer_id": "EPITHALON-10MG",
+      "file": "images/05-dsafvsaf1-primary.png",
+      "gallery_files": [
+        "images/05-dsafvsaf1-primary.png",
+        "images/05-dsafvsaf1-02-composition-origin.png",
+        "images/05-dsafvsaf1-03-form-packaging.png",
+        "images/05-dsafvsaf1-04-storage-shelf-life.png",
+        "images/05-dsafvsaf1-05-neutral-positioning.png"
+      ]
     }
   ]
 }
