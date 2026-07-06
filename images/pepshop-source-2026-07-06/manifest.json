@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-07-06",
+  "purpose": "Original PepShop images republished as stable public URLs for Peptiline Ozon image import.",
+  "base_url": "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main",
+  "items": [
+    {
+      "target_offer_id": "PL-PS-MADCORE2-01",
+      "source_offer_id": "50",
+      "target_title": "madcore 2.0 1 шт",
+      "source_name": "Madcore 2.0 мощное локальное и системное жиросжигание",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/070__50__Madcore_2.0_мощное_локальное_и_системное_жиросжигание",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-madcore2-01/01_primary.jpg",
+        "images/pepshop-source-2026-07-06/pl-ps-madcore2-01/02_gallery_01.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-madcore2-01/01_primary.jpg",
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-madcore2-01/02_gallery_01.jpg"
+      ],
+      "image_count": 2
+    },
+    {
+      "target_offer_id": "PL-PS-GLP1DROPS-01",
+      "source_offer_id": "fsgfshsgsh",
+      "target_title": "Комплекс glp1drops 1 шт",
+      "source_name": "GLP - 1 Капли для похудения и жиросжигани",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/133__fsgfshsgsh__GLP_-_1_Капли_для_похудения_и_жиросжигани",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-glp1drops-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-glp1drops-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-RETRUTIDE10MG-02",
+      "source_offer_id": "manlg6h3oknc2i78hrng",
+      "target_title": "Комплекс retrutide10mg 1 шт",
+      "source_name": "Retrutide 10мг жиросжигание и похудение",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/117__manlg6h3oknc2i78hrng__Retrutide_10мг_жиросжигание_и_похудение",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-retrutide10mg-02/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-retrutide10mg-02/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-TRZ10MG-01",
+      "source_offer_id": "manl2iz6yk0bfpalm3eq",
+      "target_title": "Комплекс trz10mg 1 шт",
+      "source_name": "TRZ 10мг от Apex Bio жиросжигание и похудение",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/120__manl2iz6yk0bfpalm3eq__TRZ_10мг_от_Apex_Bio_жиросжигание_и_похудение",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-trz10mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-trz10mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-AMX10ML-03",
+      "source_offer_id": "SDAGAF",
+      "target_title": "Косметический комплекс AMX 10 мл, 1 шт",
+      "source_name": "ADAMAX 10мг/10мл для восстановления кожи",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/051__SDAGAF__ADAMAX_10мг_10мл_для_восстановления_кожи",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-amx10ml-03/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-amx10ml-03/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-PT141SPRAY20MG-01",
+      "source_offer_id": "dsfsg4",
+      "target_title": "Комплекс pt141spray20mg 1 шт",
+      "source_name": "ПТ-141 Апекс био 20мг спрей",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/006__dsfsg4__ПТ-141_Апекс_био_20мг_спрей",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-pt141spray20mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-pt141spray20mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-GLYX13SPRAY5MG-01",
+      "source_offer_id": "manlafplw3qt1d3mk0lt",
+      "target_title": "Комплекс glyx13spray5mg 1 шт",
+      "source_name": "Glyx-13 5мг спрей поддержка когнетивных функций",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/106__manlafplw3qt1d3mk0lt__Glyx-13_5мг_спрей_поддержка_когнетивных_функций",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-glyx13spray5mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-glyx13spray5mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-SELANK5MG-01",
+      "source_offer_id": "manlk4qgb641j6gswbhl",
+      "target_title": "Комплекс selank5mg 1 шт",
+      "source_name": "Selank 5мг для эмоционального контакта и концентрации",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/110__manlk4qgb641j6gswbhl__Selank_5мг_для_эмоционального_контакта_и_концентрации",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-selank5mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-selank5mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-HOYGI-CU-SERUM-01",
+      "source_offer_id": "102",
+      "target_title": "Сыворотка hoygicu 1 шт",
+      "source_name": "Сыворотка для лица с пептидами меди Hoygi",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/115__102__Сыворотка_для_лица_с_пептидами_меди_Hoygi",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-hoygi-cu-serum-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-hoygi-cu-serum-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-THYMOSINALPHA1-01",
+      "source_offer_id": "sdgf1",
+      "target_title": "Комплекс thymosinalpha1 1 шт",
+      "source_name": "Тимозин Альфа-1 10мг противовоспалительный и противовирусный",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/007__sdgf1__Тимозин_Альфа-1_10мг_противовоспалительный_и_противовирусный",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-thymosinalpha1-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-thymosinalpha1-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-CAGRILINTIDE5MG-01",
+      "source_offer_id": "sfdweqqesav",
+      "target_title": "Комплекс cagrilintide5mg 1 шт",
+      "source_name": "Cagrilintide 5мг для жирозжигания и похуудения",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/046__sfdweqqesav__Cagrilintide_5мг_для_жирозжигания_и_похуудения",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-cagrilintide5mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-cagrilintide5mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-BPC157CAPS1000-02",
+      "source_offer_id": "dsgfafgafdgagf",
+      "target_title": "Комплекс bpc157caps1000 1 шт",
+      "source_name": "BPC-157 1000 мкг 60 капсул для заживления суставов и связок",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/094__dsgfafgafdgagf__BPC-157_1000_мкг_60_капсул_для_заживления_суставов_и_связок",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-bpc157caps1000-02/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-bpc157caps1000-02/01_primary.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "target_offer_id": "PL-PS-KISSPEPTIN5MG-01",
+      "source_offer_id": "dsggsfagfahhjhggf",
+      "target_title": "Комплекс kisspeptin5mg 1 шт",
+      "source_name": "KissPeptin 5 мг от Apex Bio для либидо",
+      "source_local_image_dir": "/home/max/SHOPS/OZON_SHOPS/OZON/output/PEPSHOP_2026-07-06_export/images/all_products/095__dsggsfagfahhjhggf__KissPeptin_5_мг_от_Apex_Bio_для_либидо",
+      "files": [
+        "images/pepshop-source-2026-07-06/pl-ps-kisspeptin5mg-01/01_primary.jpg"
+      ],
+      "public_urls": [
+        "https://raw.githubusercontent.com/MaxCorpOrg/peptiline-ozon-product-images/main/images/pepshop-source-2026-07-06/pl-ps-kisspeptin5mg-01/01_primary.jpg"
+      ],
+      "image_count": 1
+    }
+  ]
+}
