@@ -24,3 +24,4 @@ Purpose:
 - `OXYTOCIN-2MG` now uses a 5-card gallery; `03-adfafaffa-01-cover.png` is the intended live primary image and `03-adfafaffa-primary.png` is kept only as a legacy alias.
 - `EPITHALON-10MG` now uses a 5-card gallery; `05-dsafvsaf1-01-cover.png` is the live primary image and `05-dsafvsaf1-primary.png` is kept only as a legacy alias.
 - `images/pepshop-source-2026-07-06/` contains original PepShop source images republished as stable public URLs for the 2026-07-06 Peptiline migration wave.
+- `images/pepshop-new-card-2026-07-20/ps-epithalon-dsip-ipamorelin-spray-01/` contains the primary image for the new PepShop card `PS-EPITHALON-DSIP-IPAMORELIN-SPRAY-01`.
