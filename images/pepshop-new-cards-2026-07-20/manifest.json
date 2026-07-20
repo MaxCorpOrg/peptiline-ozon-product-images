@@ -1,51 +1,8 @@
 {
-  "client_id": "5086122",
-  "generated_at": "2026-06-21",
+  "generated_at": "2026-07-20",
+  "client_id": "2536847",
+  "shop": "PepShop",
   "items": [
-    {
-      "offer_id": "adfa1",
-      "file": "images/01-adfa1-primary.png"
-    },
-    {
-      "offer_id": "1sdf",
-      "file": "images/02-1sdf-primary.png"
-    },
-    {
-      "offer_id": "adfafaffa",
-      "live_offer_id": "OXYTOCIN-2MG",
-      "file": "images/03-adfafaffa-01-cover.png",
-      "legacy_alias_file": "images/03-adfafaffa-primary.png",
-      "gallery_files": [
-        "images/03-adfafaffa-01-cover.png",
-        "images/03-adfafaffa-02-composition-usage.png",
-        "images/03-adfafaffa-03-form-packaging.png",
-        "images/03-adfafaffa-04-storage-shelf-life.png",
-        "images/03-adfafaffa-05-neutral-positioning.png"
-      ]
-    },
-    {
-      "offer_id": "20",
-      "file": "images/04-20-primary.png"
-    },
-    {
-      "offer_id": "dsafvsaf1",
-      "live_offer_id": "EPITHALON-10MG",
-      "file": "images/05-dsafvsaf1-01-cover.png",
-      "legacy_alias_file": "images/05-dsafvsaf1-primary.png",
-      "gallery_files": [
-        "images/05-dsafvsaf1-01-cover.png",
-        "images/05-dsafvsaf1-02-composition-origin.png",
-        "images/05-dsafvsaf1-03-form-packaging.png",
-        "images/05-dsafvsaf1-04-storage-shelf-life.png",
-        "images/05-dsafvsaf1-05-neutral-positioning.png"
-      ]
-    },
-    {
-      "offer_id": "PS-EPITHALON-DSIP-IPAMORELIN-SPRAY-01",
-      "client_id": "2536847",
-      "shop": "PepShop",
-      "file": "images/pepshop-new-card-2026-07-20/ps-epithalon-dsip-ipamorelin-spray-01/01-primary.jpg"
-    },
     {
       "source_offer_id": "dsgafgadfhafdh",
       "source_product_id": 3812406107,
